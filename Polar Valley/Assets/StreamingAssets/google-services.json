@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539377376754",
+    "project_id": "polar-valley",
+    "storage_bucket": "polar-valley.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539377376754:android:be80962a580e57335bdf6b",
+        "android_client_info": {
+          "package_name": "com.polarvalley"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKd81Nijc_3FF6WTzBbpO3V5VnR6B6wvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
