@@ -1,0 +1,468 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1718388975144215, "dur":79, "ph":"X", "name": "EmitBuildStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718388975109959, "dur":37213, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718388975147193, "dur":447, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718388975147758, "dur":60, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1718388975147819, "dur":318, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718388975148172, "dur":493, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1718388975148701, "dur":112, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1718388975148999, "dur":410, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1718388975149414, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1718388975149514, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1718388975149629, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1718388975149720, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1718388975150479, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975150575, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975150634, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975150944, "dur":124, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975151097, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975151206, "dur":780, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975152016, "dur":227, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975152301, "dur":189, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975152494, "dur":136, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975152634, "dur":144, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975152939, "dur":329, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975153273, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975153380, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975153673, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975153726, "dur":228, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975154108, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975154692, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975154878, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975155027, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975155435, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975155556, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975155626, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975155704, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityMainThreadDispatcher.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975156116, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975156382, "dur":129, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975156595, "dur":167, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Linq.Expressions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975156838, "dur":1218, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.ObjectModel.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975158307, "dur":233, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Threading.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975158592, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975158696, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975158864, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975158952, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975159443, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975159545, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718388975160416, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1718388975148162, "dur":12504, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718388975160668, "dur":10263729, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718388985424398, "dur":320, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718388985424838, "dur":3950, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1718388975149921, "dur":12287, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718388975162211, "dur":931, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718388975164353, "dur":821, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\Resources\\unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1718388975163143, "dur":2340, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718388975165483, "dur":4330, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718388975170056, "dur":288, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975170345, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975170444, "dur":408, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975170853, "dur":2109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975172965, "dur":140, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975173107, "dur":184, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975173292, "dur":375, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975173669, "dur":535, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\UnityMainThreadDispatcher.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975174206, "dur":125, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975174333, "dur":243, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975174577, "dur":550, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975175129, "dur":456, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975175586, "dur":322, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975175910, "dur":137, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975176048, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975176133, "dur":713, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975176848, "dur":345, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975177194, "dur":115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975177317, "dur":230, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\KSCommonReactor.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975177548, "dur":291, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\KSCommon.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975177841, "dur":120, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\KSSceneFusion.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388975178045, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"ProjectSettings\\BurstAotSettings_StandaloneWindows.json" }}
+,{ "pid":12345, "tid":1, "ts":1718388975178143, "dur":90, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Library\\PackageCache\\com.unity.burst@1.8.12\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":1, "ts":1718388975169819, "dur":8415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":1, "ts":1718388975181762, "dur":10235395, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":1, "ts":1718388985422880, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\AsyncPluginsFromLinker\\x86_64\\lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388985422879, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718388985423108, "dur":1238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975149836, "dur":10892, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975160731, "dur":1008, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975161740, "dur":1088, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975162829, "dur":1448, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975164278, "dur":5532, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975169826, "dur":365, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975177002, "dur":3521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1718388975180529, "dur":935, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1718388975181466, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975181640, "dur":11487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1718388975193474, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1718388975193473, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1718388975193668, "dur":5522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1718388975199243, "dur":145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1718388975199242, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1718388975199390, "dur":427, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975200069, "dur":22979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1718388975223123, "dur":54, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":2, "ts":1718388975223122, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley.exe" }}
+,{ "pid":12345, "tid":2, "ts":1718388975223181, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975223290, "dur":9460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley.exe" }}
+,{ "pid":12345, "tid":2, "ts":1718388975233018, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975246807, "dur":1671, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975233379, "dur":15117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975248750, "dur":6913, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975255691, "dur":4574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975260369, "dur":2771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975263451, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975265994, "dur":943, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975263609, "dur":3446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975267676, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975272946, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975267875, "dur":5171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975273235, "dur":1840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975275207, "dur":2156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975277568, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975279300, "dur":774, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975277634, "dur":2484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Threading.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975280247, "dur":8459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Runtime.Extensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975288786, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975288860, "dur":7852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.ObjectModel.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975296766, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975296858, "dur":23923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Realm.PlatformHelpers.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975327860, "dur":10970, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975320855, "dur":17991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/KSSceneFusion.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975338976, "dur":5009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975344194, "dur":40099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975385100, "dur":2451, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975387585, "dur":3544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975391182, "dur":242, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975391445, "dur":1650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975393164, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975393283, "dur":5374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975398780, "dur":1601, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975400450, "dur":124, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975400592, "dur":5763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975406408, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975406491, "dur":595, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975407090, "dur":2558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975409711, "dur":210, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975413829, "dur":1271, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975409941, "dur":5182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975415178, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975415306, "dur":762, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975416073, "dur":6775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975422900, "dur":563, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975423477, "dur":2577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975426272, "dur":261, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975426551, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975428181, "dur":151, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975428345, "dur":2069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975430636, "dur":2138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975432831, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975432973, "dur":5702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975438749, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975438829, "dur":2881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975442097, "dur":390, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975442502, "dur":17854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718388975460463, "dur":1466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":2, "ts":1718388975462205, "dur":3418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1718388975465849, "dur":257, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718388975466109, "dur":1588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1718388975467757, "dur":5557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1718388975473426, "dur":1153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1718388975474653, "dur":8891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1718388975483763, "dur":4158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1718388975488058, "dur":1306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/level2" }}
+,{ "pid":12345, "tid":2, "ts":1718388975489439, "dur":1026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1718388975490526, "dur":5194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1718388975495781, "dur":9928608, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975149871, "dur":11606, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975161482, "dur":1042, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975162525, "dur":854, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975163379, "dur":6458, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975169851, "dur":432, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1718388975169839, "dur":446, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1718388975178358, "dur":5344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":3, "ts":1718388975183758, "dur":129, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1718388975183989, "dur":23256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1718388975209666, "dur":191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1718388975209938, "dur":3115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1718388975213143, "dur":1485, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975213140, "dur":1493, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975272671, "dur":545, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975214750, "dur":58477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975273370, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975273428, "dur":873, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975274309, "dur":7320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975281712, "dur":344, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975282078, "dur":40166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Reflection.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975328342, "dur":11149, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975322306, "dur":17193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/KSCommon.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975339578, "dur":27467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975376930, "dur":1199, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975380319, "dur":1764, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975378173, "dur":3983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975382211, "dur":1091, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975383328, "dur":6519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975389918, "dur":632, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975390704, "dur":13047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975404409, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975406649, "dur":550, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975404489, "dur":2720, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975407486, "dur":488, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975414559, "dur":1083, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975408045, "dur":7607, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975415828, "dur":1381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975417414, "dur":3978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975421566, "dur":7626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975433153, "dur":242, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975436854, "dur":520, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975433412, "dur":3985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975437534, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975437646, "dur":1450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975439198, "dur":14732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975454001, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975453999, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975454140, "dur":309, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718388975454469, "dur":58493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718388975513069, "dur":9911329, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975149902, "dur":12300, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975162655, "dur":1480, "ph":"X", "name": "File",  "args": { "detail":"C:\\Users\\alex\\UnityProjects\\Polar Valley\\Temp\\StagingArea\\Data\\Managed\\System.Linq.Expressions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975162205, "dur":3190, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975165396, "dur":4499, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975169896, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1718388975179091, "dur":1989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1718388975181695, "dur":862, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1718388975181693, "dur":868, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1718388975182564, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975182862, "dur":11151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1718388975194160, "dur":485, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1718388975194646, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975194766, "dur":2233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1718388975197091, "dur":142, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1718388975197090, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1718388975197238, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975198630, "dur":4468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1718388975203172, "dur":1315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1718388975204488, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975204781, "dur":1792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1718388975206656, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1718388975207139, "dur":3677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1718388975210894, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1718388975211043, "dur":882, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975211935, "dur":81, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975212281, "dur":42592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1718388975255205, "dur":2452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975257850, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975257946, "dur":4767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975262987, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975265960, "dur":114, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975263060, "dur":3034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975266254, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975266331, "dur":23702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975293443, "dur":1899, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975290157, "dur":5211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Linq.Queryable.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975295513, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975330050, "dur":9991, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975295613, "dur":44439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Diagnostics.Debug.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975340232, "dur":19614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975359917, "dur":3282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975364144, "dur":2932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975367140, "dur":3316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975372217, "dur":217, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975370579, "dur":1864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975372702, "dur":9290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975382040, "dur":907, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975383211, "dur":7093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975390871, "dur":2106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975393032, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975393118, "dur":6770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975400028, "dur":144, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975406712, "dur":812, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975400188, "dur":7344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975407597, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975407663, "dur":4383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975412133, "dur":936, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975413106, "dur":3374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975416544, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975416701, "dur":1752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975418514, "dur":754, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975419297, "dur":3318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975422670, "dur":774, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975423467, "dur":4342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975427929, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975429522, "dur":3026, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975432721, "dur":3167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975435941, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975436122, "dur":1790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975438037, "dur":1603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975439737, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718388975439855, "dur":9147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975449083, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PackageCache\\io.realm.unity@12.2.0\\Runtime\\Windows\\x86_64\\realm-wrappers.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975449082, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Plugins/x86_64/realm-wrappers.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975449814, "dur":39468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Plugins/x86_64/realm-wrappers.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718388975489372, "dur":1363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1718388975490792, "dur":4410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1718388975495299, "dur":1393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1718388975496740, "dur":9927632, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718388975149743, "dur":10933, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718388975160680, "dur":9116, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718388975171684, "dur":590, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":5, "ts":1718388975172281, "dur":91, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1718388975172400, "dur":13660, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1718388975186064, "dur":244, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1718388975186539, "dur":119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player7b01583f-inputdata.json" }}
+,{ "pid":12345, "tid":5, "ts":1718388975172280, "dur":14516, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1718388975187121, "dur":71, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718388975591399, "dur":359, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718388975187723, "dur":404051, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1718388975599413, "dur":7117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1718388975599411, "dur":7121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1718388975606560, "dur":1327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1718388975607894, "dur":9816655, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975149949, "dur":12365, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975162315, "dur":859, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975163216, "dur":6601, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975169836, "dur":160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1718388975169819, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1718388975170672, "dur":23517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1718388975194276, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1718388975194420, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975194998, "dur":2264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1718388975197407, "dur":385, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1718388975197795, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975198331, "dur":1986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1718388975200395, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1718388975200518, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975200765, "dur":2516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1718388975203465, "dur":551, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1718388975203463, "dur":555, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1718388975204019, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975204117, "dur":50, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975207034, "dur":455, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975204465, "dur":3035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1718388975207606, "dur":208, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1718388975207605, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1718388975207875, "dur":3737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1718388975211667, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975211665, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975211872, "dur":91, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975224213, "dur":475, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975214434, "dur":10271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975224783, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1718388975224945, "dur":1454, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975242881, "dur":83, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975226938, "dur":16050, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":6, "ts":1718388975243174, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975246722, "dur":219, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975243530, "dur":3437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975247101, "dur":273, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975247383, "dur":10963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975259810, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975258448, "dur":1455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975260081, "dur":84, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975268550, "dur":120, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975260171, "dur":8518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975268764, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975271030, "dur":214, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975268841, "dur":2416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975274187, "dur":254, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975271421, "dur":3037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975274601, "dur":1234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975275887, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975275975, "dur":1482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975279285, "dur":115, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975277555, "dur":1869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975279487, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975281383, "dur":416, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975279577, "dur":2236, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975282015, "dur":427, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975282463, "dur":6534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Reflection.Extensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975289049, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975291593, "dur":618, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975289125, "dur":3106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975292336, "dur":730, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975293079, "dur":1093, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975296066, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975294178, "dur":1992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Linq.Expressions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975296243, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975296360, "dur":2662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/System.Collections.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975299138, "dur":667, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975299840, "dur":19077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975318991, "dur":190, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975320962, "dur":95, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975319221, "dur":1855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975321152, "dur":232, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975325894, "dur":5922, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975321401, "dur":10435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Realm.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975332183, "dur":1712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/KSCommonReactor.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975333957, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975334063, "dur":1256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975335395, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975335469, "dur":1166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Realm.UnityUtils.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975336719, "dur":1148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975337944, "dur":1210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975339277, "dur":3799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975343160, "dur":16163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975359452, "dur":2458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975362006, "dur":2628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityMainThreadDispatcher.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975364747, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975364809, "dur":1567, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975366580, "dur":1195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975367908, "dur":1953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975369993, "dur":1099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975372182, "dur":66, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975371201, "dur":1064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975372323, "dur":314, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975380305, "dur":223, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975372655, "dur":8264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975381463, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975381590, "dur":7518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975391612, "dur":91, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975389212, "dur":2502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975391868, "dur":1342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975393328, "dur":387, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975393798, "dur":4966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975398873, "dur":2002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975401016, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975401360, "dur":5008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975406426, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975406494, "dur":1845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975408394, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975408476, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975413631, "dur":1098, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975408549, "dur":6204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975414869, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975414939, "dur":1158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975416224, "dur":1062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975417416, "dur":2780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975420272, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975420354, "dur":1474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975421957, "dur":2642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975424722, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975424869, "dur":2304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975427224, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975427304, "dur":991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975428341, "dur":198, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975428554, "dur":1319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975429940, "dur":97, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975430083, "dur":2239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975432395, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975432472, "dur":1096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975433626, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975433754, "dur":1533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975435413, "dur":2534, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975438052, "dur":1011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975440653, "dur":322, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975439166, "dur":1830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975441178, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975441270, "dur":1014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975456751, "dur":1702, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975442382, "dur":16101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718388975458765, "dur":352, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975459122, "dur":6771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1718388975465983, "dur":1414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":6, "ts":1718388975467493, "dur":4813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1718388975472374, "dur":1013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1718388975516922, "dur":459, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718388975473579, "dur":43934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/alex/Desktop/Troyano/Polar Valley_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":6, "ts":1718388975517587, "dur":9906995, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718388985435468, "dur":2172, "ph":"X", "name": "ProfilerWriteOutput" }
+,

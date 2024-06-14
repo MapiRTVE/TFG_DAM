@@ -6,9 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/FirebaseAuth.unity
+    path: Assets/Scenes/AuthenticationScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/GameScene.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: d21464502f909e64c8d8973f33b3552c
+  - enabled: 1
+    path: Assets/Scenes/Niveles/TutorialScene.unity
     guid: eba262f27f7fb2d43b17aa2bade5c848
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel1.unity
+    guid: 9aab5cbaf719627438666df6b262ec51
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel2.unity
+    guid: 95a113a6b3fb5114086e197e2e074183
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel3.unity
+    guid: 16514dabb5e58eb4c9cb40986fca2c64
+  - enabled: 1
+    path: Assets/Scenes/Niveles/Nivel4.unity
+    guid: 2d14d04c422a9fa48a3fe0aed481ba85
   m_configObjects: {}

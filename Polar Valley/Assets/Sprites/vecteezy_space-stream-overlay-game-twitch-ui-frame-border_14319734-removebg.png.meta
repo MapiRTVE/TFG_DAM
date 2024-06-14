@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: cf665ab51a343b746bd7858bcca3c183
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 241
+        width: 356
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17e6c27443b1a44fbd43d98a6d29b04
+      internalID: 371176494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 218
+        width: 607
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1d4370eb7a561468e878cd8f341ecd
+      internalID: -748174076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 218
+        width: 289
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16471abaa759c74a88e3f7a0083f3e7
+      internalID: -68734173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 218
+        width: 289
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b045227e2d39b64fa8aacfabdf4e8aa
+      internalID: 1667419176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 90
+        width: 608
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2282580e93a07b49b260fca2977bacf
+      internalID: 709590709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 104
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788b54b61399f444290872c95e7ca33f
+      internalID: 1448394709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 103
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088e925a7bedd9048972bc6fd224ed96
+      internalID: 659350298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 103
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475fb27e6ed9b1d45b136e157a7a06e9
+      internalID: 377598916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 104
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c04bdf7d635f54192fd35484d3ac88
+      internalID: -1534400743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 103
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b5492adb40fc54fb7c6019795b0611
+      internalID: -1419206329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 104
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeca073ba482124f9973d2ded77076f
+      internalID: -922695966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 103
+        width: 200
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a0caeef01e91848be286fbc11d055e
+      internalID: 1223402849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 103
+        width: 200
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a8df5caa4a47a4798acc6101044b84
+      internalID: -523618935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 104
+        width: 201
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474dc0d6ba2a214b9bbcd78c971c780
+      internalID: 2061577339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_0: 371176494
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_1: -748174076
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_10: -922695966
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_11: 1223402849
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_12: -523618935
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_13: 2061577339
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_2: -68734173
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_3: 1667419176
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_4: 709590709
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_5: 1448394709
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_6: 659350298
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_7: 377598916
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_8: -1534400743
+      vecteezy_space-stream-overlay-game-twitch-ui-frame-border_14319734-removebg_9: -1419206329
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

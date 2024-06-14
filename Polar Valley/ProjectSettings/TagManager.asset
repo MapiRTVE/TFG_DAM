@@ -11,9 +11,9 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Enemy
+  - Bullet
+  - Turret
   - 
   - 
   - 
@@ -40,4 +40,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Turrets
+    uniqueID: 2493159287
+    locked: 0
+  - name: Enemy
+    uniqueID: 2782696711
+    locked: 0
+  - name: UI
+    uniqueID: 591394425
     locked: 0
